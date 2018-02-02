@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "YODbzvhUr0Tzp2/MkXflXph2hdY=",
+			"path": "github.com/go-chi/chi",
+			"revision": "cd4fa0918b188ff91eabe8459b776d91b168dc83",
+			"revisionTime": "2018-02-02T13:40:05Z"
+		},
+		{
+			"checksumSHA1": "jiHc0ZIao93h+q1R3NhNRR2VXMI=",
+			"path": "github.com/go-chi/chi/middleware",
+			"revision": "cd4fa0918b188ff91eabe8459b776d91b168dc83",
+			"revisionTime": "2018-02-02T13:40:05Z"
+		}
+	],
+	"rootPath": "github.com/amerine/basic-http"
+}
